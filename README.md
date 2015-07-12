@@ -1,15 +1,15 @@
 
 
 # fa-server
-
+FA master server (v1.0)
 
 
 ## Usage
-
+Server side code for FA project
 
 
 ## Developing
-
+MEAN stack, Linux, Eclipse
 
 
 ### Tools
