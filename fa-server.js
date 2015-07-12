@@ -62,4 +62,5 @@ app.get("/products/:id", function(req, res) {
 	});
 });
 
+app.use(express.static('/usr/fa/img'));
 app.listen(3000);
